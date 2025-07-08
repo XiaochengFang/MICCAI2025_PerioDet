@@ -19,7 +19,7 @@ https://drive.google.com/drive/folders/1a81HVURdM3Q38pa6qgjat2hf-wkaPE5Q?usp=sha
 @inproceedings{fang2025PerioDet,
   title={PerioDet: Large-Scale Panoramic Radiograph  Benchmark for Clinical-Oriented Apical  Periodontitis Detection},
   author={Fang, Xiaocheng and Cai, Jieyi and Liu, Huanyu and Zhou, Chengju and Lu, Minhua and Chen, Bingzhi},
-  booktitle={International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)},
+  booktitle={Proceedings of Medical Image Computing and Computer Assisted Intervention (MICCAI)},
   volume={xxx},
   number={xxx},
   pages={xxx--xxx},
