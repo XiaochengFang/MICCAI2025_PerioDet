@@ -10,7 +10,7 @@ Apical periodontitis is a prevalent oral pathology that presents significant pub
 
 ### Download PerioXrays Dataset:
 ```
-https://drive.google.com/drive/folders/1a81HVURdM3Q38pa6qgjat2hf-wkaPE5Q?usp=sharing
+https://huggingface.co/datasets/XiaochengFang/PerioXrays
 ```
 
 ### Please consider citing the following paper if you find this work useful for your research.
